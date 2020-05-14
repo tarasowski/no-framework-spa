@@ -1,7 +1,7 @@
 No Framework SPA
 ===================================
 
-This app how to build a single page application without a framework. It has
+This app shows how to build a single page application without a framework. It has
 global state management, components and does update the components via listening
 for native browser events. You only need to know basic JavaScript and DOM.
 
